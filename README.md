@@ -49,3 +49,5 @@ TOKEN=tokenbot
 ```bash
 const prefix = "YoureBotPrefix";
 ```
+
+### DONE! You have configured the server 🎉
