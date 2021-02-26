@@ -5,7 +5,7 @@ This code is only for beginners, hope it helps 🤗
 
 
 ## Getting Started
-This project requires NodeJS and Discord.js Packages
+This project requires NodeJS
 
 ## Install
 > • 1. To install Bot, you need Website [Glitch](https://glitch.com/)
