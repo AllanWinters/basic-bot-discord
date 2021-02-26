@@ -51,3 +51,7 @@ const prefix = "YoureBotPrefix";
 ```
 
 #### DONE! You have configured the server 🎉
+
+### Thanks For 💖
+
+**•** [Client-Developer-ID](https://github.com/Client-Developer-ID)
