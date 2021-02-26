@@ -1,4 +1,5 @@
 const Discord = require("discord.js");
+const { MessageEmbed } = require("discord.js");
 const client = new Discord.Client();
 //UPTIME ROBOT (WEB)
 const { get } = require("snekfetch");
@@ -14,11 +15,11 @@ setInterval(() => {
 http.get('http://discord-tutori4l.glitch.me/');
 }, 280000);
 client.on("ready", async () => {
-  console.log(`${client.user.tag} sudah online!`);
-  client.user.setActivity("Jangan Lupa Subscribe");
+  console.log(`${client.user.tag} is Online!`);
+  client.user.setActivity('MINEPLAY Server', { type: 'PLAYING' });
 });
 client.on("message", async message => {
-  if (message.content === "indonesia") message.reply(":flag_id:");
+  if (message.content === "indonesia") message.channel.send(":flag_id:");
 //COMMAND BOT DI SERVER.JS
 const prefix = "!"
 if(!message.content.startsWith(prefix)) return null;
@@ -31,7 +32,10 @@ let commandFiles;
 try{
   commandFiles = require(`./commands/${cmd}.js`)
 } catch (err) {
-  return message.reply("Command Not Found")
+  let embed = new MessageEmbed()
+  .setColor('WHITE')
+  .setTitle('❌ **Command Not Found**') //ini cuma contoh
+  message.channel.send(embed);
 }
 const db = require("quick.db")
 const now = Date.now()
