@@ -41,5 +41,5 @@ Go to **package.json**, press the `Add Package` button. After that, add all the 
 > • 1. Add your Bot Token in the `.env` file
 
 ```bash
-<font color="red">TOKEN</font>
+<style color="#843DA4">TOKEN</style>
 ```
