@@ -50,4 +50,4 @@ TOKEN=tokenbot
 const prefix = "YoureBotPrefix";
 ```
 
-### DONE! You have configured the server 🎉
+#### DONE! You have configured the server 🎉
