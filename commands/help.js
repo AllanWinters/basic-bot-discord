@@ -2,11 +2,11 @@ const { MessageEmbed } = require('discord.js')
 
 exports.run = async (client, message) => {
   let embed = new MessageEmbed()
-  .setTitle('┏╋━━━ ◥◣◆ Hel')
-  .setColor('#0086FF')
+  .setTitle('')
+  .setColor('')
   .setDescription('')
   .addField('')
-  .setTimestamp()
-  .setFooter('MINEPLAY')
+  .setTimestamp()//Leave this blank
+  .setFooter('')
   message.channel.send(embed)
 }
