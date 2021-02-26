@@ -14,6 +14,14 @@ This project requires NodeJS
 
 > • 3. If you have registered/logged in, press the **three line icon** in the top right corner
 
+> • 4. Press **New Project**. After that, press `Clone from Git Repo`
+
+> • 5. After that, copy and paste the link below:
+
+```bash
+
+```
+
 ## Install the Dependencies
 Go to **package.json**, press the `Add Package` button. After that, add all the packages below:
 
