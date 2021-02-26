@@ -20,7 +20,7 @@ client.on("ready", async () => {
 });
 client.on("message", async message => {
   if (message.content === "indonesia") message.channel.send(":flag_id:");
-//COMMAND BOT DI SERVER.JS
+//COMMAND BOT IN SERVER.JS
 const prefix = "!"
 if(!message.content.startsWith(prefix)) return null;
 let msg = message.content.toLowerCase();
