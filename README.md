@@ -12,6 +12,7 @@ This project requires NodeJS and Discord.js Packages
 
 > • 2. If you don't have an account, you can register
 
+> • 3. If you have registered/logged in, press the **three line icon** in the top right corner
 
 ## Install the Dependencies
 Go to **package.json**, press the `Add Package` button. After that, add all the packages below:
