@@ -43,3 +43,9 @@ Go to **package.json**, press the `Add Package` button. After that, add all the 
 ```bash
 TOKEN=tokenbot
 ```
+
+> • 2. Change your Prefix in `server.js`
+
+```bash
+
+```
