@@ -1,7 +1,6 @@
 # Hi Everyone, I'm AllanWinters 👋
 
-Here, I will share Discord.js Basic Code for Discord Bot.
-
+Here, I will share Discord.js Basic Code for Discord Bot.<p>
 This code is only for beginners, hope it helps 🤗
 
 
