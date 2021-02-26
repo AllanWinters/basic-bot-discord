@@ -5,4 +5,8 @@ This code is only for beginners, hope it helps 🤗
 
 
 ## Getting Started
-> **• 1. Change your Bot Token in .env**\n`TOKEN=tokenbot`
+This project requires NodeJS and Discord.js Packages
+
+```bash
+TOKEN=tokenbot
+```
