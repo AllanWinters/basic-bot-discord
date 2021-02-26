@@ -21,7 +21,7 @@ client.on("ready", async () => {
 client.on("message", async message => {
   if (message.content === "indonesia") message.channel.send(":flag_id:");
 //COMMAND BOT IN SERVER.JS
-const prefix = "!"
+const prefix = "YourBotPrefix"
 if(!message.content.startsWith(prefix)) return null;
 let msg = message.content.toLowerCase();
 let args = message.content.slice(prefix.length).trim().split(" ");
