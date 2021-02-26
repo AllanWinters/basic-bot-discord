@@ -38,8 +38,6 @@ Go to **package.json**, press the `Add Package` button. After that, add all the 
 ## Configuration
 **For Configuration, follow the steps below:**
 
-
-
 > • 1. Add your Bot Token in the `.env` file
 
 ```bash
