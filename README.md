@@ -47,7 +47,7 @@ TOKEN=tokenbot
 > • 2. Change your Prefix in `server.js`
 
 ```bash
-const prefix = "YoureBotPrefix";
+const prefix = "YourBotPrefix";
 ```
 
 #### DONE! You have configured the server 🎉
