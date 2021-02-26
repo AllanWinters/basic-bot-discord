@@ -22,6 +22,8 @@ This project requires NodeJS
 https://github.com/AllanWinters/basic-bot-discord.git
 ```
 
+Wait for the process to complete
+
 ## Install the Dependencies
 Go to **package.json**, press the `Add Package` button. After that, add all the packages below:
 
