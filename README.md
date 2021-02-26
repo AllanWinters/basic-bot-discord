@@ -19,7 +19,7 @@ This project requires NodeJS
 > • 5. After that, copy and paste the link below:
 
 ```bash
-
+https://github.com/AllanWinters/basic-bot-discord.git
 ```
 
 ## Install the Dependencies
